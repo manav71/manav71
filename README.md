@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manav Sanghi
 - 👀 I’m interested in exploring new technologies like ML and Computer vision.
 - 🌱 I’m currently learning python and DSA using cpp.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects related to web development and machine learning.
 - 📫 You can contact me through linkedIn or facebook.
 
 <!---
